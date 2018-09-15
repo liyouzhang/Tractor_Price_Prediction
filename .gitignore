@@ -1,0 +1,6 @@
+__pycache__/
+archived/
+config.yaml
+data/Train.zip
+test_Liyou.ipynb
+tractor_price_prediction.csv
